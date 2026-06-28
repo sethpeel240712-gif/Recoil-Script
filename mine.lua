@@ -36,7 +36,7 @@ RcCustomStrength = 7 -- Value MUST be ROUNDED! No Decimal values such as 6.5!
 
 RequireToggle = true -- Change to false if you want it to always be on.
 
-ToggleKey = "CapsLock" -- Usable Keys: "CapsLock", "NumLock", "ScrollLock"
+ToggleKey = "NumLock" -- Usable Keys: "CapsLock", "NumLock", "ScrollLock"
 
 DelayRate = 7 -- DO NOT CHANGE IF YOU DON'T KNOW WHAT YOU'RE DOING.
 
